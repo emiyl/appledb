@@ -2,7 +2,7 @@
     "osStr": "visionOS",
     "version": "1 beta 2 Simulator",
     "build": "21N5207f",
-    "uniqueBuild": "21N5207f-sim",
+    "key": "21N5207f-sim",
     "released": "2023-07-25",
     "beta": true,
     "deviceMap": [

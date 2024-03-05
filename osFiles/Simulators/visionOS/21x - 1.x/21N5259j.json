@@ -2,7 +2,7 @@
     "osStr": "visionOS",
     "version": "1 beta 4 Simulator",
     "build": "21N5259j",
-    "uniqueBuild": "21N5259j-sim",
+    "key": "21N5259j-sim",
     "released": "2023-10-03",
     "beta": true,
     "deviceMap": [

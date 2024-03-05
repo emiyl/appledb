@@ -4,7 +4,7 @@
     "released": "2004-11-05",
     "createDuplicateEntries": [
         {
-            "uniqueBuild": "1.2.4-2",
+            "key": "1.2.4-2",
             "released": "2004-12-02"
         }
     ],

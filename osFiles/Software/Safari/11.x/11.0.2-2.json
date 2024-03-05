@@ -1,7 +1,7 @@
 {
     "osStr": "Safari",
     "version": "11.0.2",
-    "uniqueBuild": "11.0.2-2",
+    "key": "11.0.2-2",
     "released": "2018-01-08",
     "securityNotes": "https://support.apple.com/HT208403",
     "deviceMap": [

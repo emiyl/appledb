@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "10.9 GM 2",
-            "uniqueBuild": "13A603-GM",
+            "key": "13A603-GM",
             "released": "2013-10-18",
             "rc": true
         }

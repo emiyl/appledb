@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "4.3 GM",
-            "uniqueBuild": "8F190-GM",
+            "key": "8F190-GM",
             "released": "2011-03-03",
             "rc": true
         }

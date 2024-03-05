@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "12.6.4 RC 5",
-            "uniqueBuild": "21G526-RC",
+            "key": "21G526-RC",
             "released": "2023-03-21",
             "rc": true
         }

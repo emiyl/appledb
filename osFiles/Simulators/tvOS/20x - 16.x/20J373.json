@@ -2,12 +2,12 @@
     "osStr": "tvOS",
     "version": "16 Simulator",
     "build": "20J373",
-    "uniqueBuild": "20J373-sim",
+    "key": "20J373-sim",
     "released": "2022-09-12",
     "createDuplicateEntries": [
         {
             "version": "16 RC Simulator",
-            "uniqueBuild": "20J373-RC-sim",
+            "key": "20J373-RC-sim",
             "released": "2022-09-07",
             "rc": true,
             "sources": [

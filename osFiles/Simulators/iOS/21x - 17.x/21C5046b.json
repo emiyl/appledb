@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "17.2 beta 3 Simulator",
     "build": "21C5046b",
-    "uniqueBuild": "21C5046b-sim",
+    "key": "21C5046b-sim",
     "released": "2023-11-14",
     "beta": true,
     "deviceMap": [

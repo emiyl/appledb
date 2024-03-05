@@ -126,7 +126,7 @@ for simulator in simulator_response['downloadables']:
         'osStr': os_str,
         'version': simulator['name'].replace(f"{os_str} ", "").replace("Simulator Runtime", "Simulator"),
         'build': build,
-        'uniqueBuild': f"{build}-sim",
+        'key': f"{build}-sim",
         'released': datetime.now(zoneinfo.ZoneInfo("America/Los_Angeles")).strftime("%Y-%m-%d"),
         'beta': bool('beta' in simulator['name']),
         'deviceMap': [f"{os_str} Simulator"],

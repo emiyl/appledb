@@ -12,7 +12,7 @@
     "createDuplicateEntries": [
         {
             "version": "13.0 GM",
-            "uniqueBuild": "17A577-GM",
+            "key": "17A577-GM",
             "released": "2019-09-10",
             "rc": true
         }

@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "15.1 RC",
-            "uniqueBuild": "19J572-RC",
+            "key": "19J572-RC",
             "released": "2021-10-18",
             "rc": true
         }

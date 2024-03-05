@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "7.0 GM",
-            "uniqueBuild": "11A465-GM",
+            "key": "11A465-GM",
             "released": "2013-09-10",
             "rc": true
         }

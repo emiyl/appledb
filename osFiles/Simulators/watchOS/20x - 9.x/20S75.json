@@ -2,12 +2,12 @@
     "osStr": "watchOS",
     "version": "9.1 Simulator",
     "build": "20S75",
-    "uniqueBuild": "20S75-sim",
+    "key": "20S75-sim",
     "released": "2022-10-24",
     "createDuplicateEntries": [
         {
             "version": "9.1 RC Simulator",
-            "uniqueBuild": "20S75-RC-sim",
+            "key": "20S75-RC-sim",
             "released": "2022-10-18",
             "rc": true,
             "sources": [

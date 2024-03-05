@@ -2,12 +2,12 @@
     "osStr": "tvOS",
     "version": "16.1 Simulator",
     "build": "20K67",
-    "uniqueBuild": "20K67-sim",
+    "key": "20K67-sim",
     "released": "2022-10-24",
     "createDuplicateEntries": [
         {
             "version": "16.1 RC Simulator",
-            "uniqueBuild": "20K67-RC-sim",
+            "key": "20K67-RC-sim",
             "released": "2022-10-18",
             "rc": true,
             "sources": [

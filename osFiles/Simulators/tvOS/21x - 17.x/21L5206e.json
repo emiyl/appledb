@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "17.4 beta 2 Simulator",
     "build": "21L5206e",
-    "uniqueBuild": "21L5206e-sim",
+    "key": "21L5206e-sim",
     "released": "2024-02-06",
     "beta": true,
     "deviceMap": [

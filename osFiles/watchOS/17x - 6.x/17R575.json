@@ -13,7 +13,7 @@
     "createDuplicateEntries": [
         {
             "version": "6.0 GM",
-            "uniqueBuild": "17R575-GM",
+            "key": "17R575-GM",
             "released": "2019-09-11",
             "rc": true
         }

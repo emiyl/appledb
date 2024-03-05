@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "14.0.1 RC",
-            "uniqueBuild": "14A400-RC",
+            "key": "14A400-RC",
             "released": "2022-09-16",
             "rc": true,
             "sdks": [

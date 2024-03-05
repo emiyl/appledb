@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "14.1 GM",
-            "uniqueBuild": "18A8395-GM",
+            "key": "18A8395-GM",
             "released": "2020-10-13",
             "rc": true
         }

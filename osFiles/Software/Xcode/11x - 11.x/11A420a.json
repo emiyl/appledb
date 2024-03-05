@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "11.0 GM 2",
-            "uniqueBuild": "11A420a-GM",
+            "key": "11A420a-GM",
             "released": "2019-09-16",
             "rc": true,
             "sdks": [

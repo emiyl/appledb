@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "13.5 Simulator",
     "build": "17F61",
-    "uniqueBuild": "17F61-sim",
+    "key": "17F61-sim",
     "released": "2020-05-20",
     "deviceMap": [
         "iOS Simulator"

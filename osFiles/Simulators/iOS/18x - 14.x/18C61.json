@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "14.3 Simulator",
     "build": "18C61",
-    "uniqueBuild": "18C61-sim",
+    "key": "18C61-sim",
     "released": "2020-12-14",
     "deviceMap": [
         "iOS Simulator"

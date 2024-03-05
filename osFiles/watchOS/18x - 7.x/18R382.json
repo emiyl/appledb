@@ -17,7 +17,7 @@
     "createDuplicateEntries": [
         {
             "version": "7.0 GM",
-            "uniqueBuild": "18R382-GM",
+            "key": "18R382-GM",
             "released": "2020-09-15",
             "rc": true
         }

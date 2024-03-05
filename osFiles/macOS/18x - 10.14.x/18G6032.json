@@ -8,7 +8,7 @@
     "released": "2020-09-24",
     "createDuplicateEntries": [
         {
-            "uniqueBuild": "18G6032-2",
+            "key": "18G6032-2",
             "released": "2020-10-01",
             "securityNotes": "https://support.apple.com/HT211872"
         }

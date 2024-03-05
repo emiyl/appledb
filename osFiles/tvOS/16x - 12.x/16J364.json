@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "12.0 GM",
-            "uniqueBuild": "16J364-GM",
+            "key": "16J364-GM",
             "released": "2018-09-12",
             "rc": true
         }

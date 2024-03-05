@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "6.1 RC",
-            "uniqueBuild": "19P647-RC",
+            "key": "19P647-RC",
             "released": "2021-12-07",
             "rc": true
         }

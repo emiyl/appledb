@@ -2,12 +2,12 @@
     "osStr": "watchOS",
     "version": "10.0 Simulator",
     "build": "21R355",
-    "uniqueBuild": "21R355-sim",
+    "key": "21R355-sim",
     "released": "2023-09-18",
     "createDuplicateEntries": [
         {
             "version": "10.0 RC Simulator",
-            "uniqueBuild": "21R355-RC-sim",
+            "key": "21R355-RC-sim",
             "released": "2023-09-12",
             "rc": true,
             "sources": [

@@ -2,7 +2,7 @@
     "osStr": "visionOS",
     "version": "1.1 beta Simulator",
     "build": "21O5181e",
-    "uniqueBuild": "21O5181e-sim",
+    "key": "21O5181e-sim",
     "released": "2024-02-06",
     "beta": true,
     "deviceMap": [

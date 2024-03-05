@@ -9,7 +9,7 @@
     "createDuplicateEntries": [
         {
             "version": "10.15.7 (Security Update 2022-005 beta 6)",
-            "uniqueBuild": "19H2026-beta",
+            "key": "19H2026-beta",
             "released": "2022-07-12",
             "beta": true
         }

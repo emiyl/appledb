@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "11.5 GM",
-            "uniqueBuild": "11E608c-GM",
+            "key": "11E608c-GM",
             "released": "2020-05-18",
             "rc": true,
             "sdks": [

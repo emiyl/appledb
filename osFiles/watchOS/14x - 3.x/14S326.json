@@ -13,7 +13,7 @@
     "createDuplicateEntries": [
         {
             "version": "3.0 GM",
-            "uniqueBuild": "14S326-GM",
+            "key": "14S326-GM",
             "released": "2016-09-07",
             "rc": true
         }

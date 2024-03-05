@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "13.2 RC",
-            "uniqueBuild": "13C90-RC",
+            "key": "13C90-RC",
             "released": "2021-12-07",
             "rc": true,
             "sdks": [

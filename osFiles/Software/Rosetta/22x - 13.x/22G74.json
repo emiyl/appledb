@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "13.5 RC",
-            "uniqueBuild": "22G74-RC",
+            "key": "22G74-RC",
             "released": "2023-07-18",
             "rc": true
         }

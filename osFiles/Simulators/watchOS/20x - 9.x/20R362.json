@@ -2,12 +2,12 @@
     "osStr": "watchOS",
     "version": "9 Simulator",
     "build": "20R362",
-    "uniqueBuild": "20R362-sim",
+    "key": "20R362-sim",
     "released": "2022-09-12",
     "createDuplicateEntries": [
         {
             "version": "9 RC Simulator",
-            "uniqueBuild": "20R362-RC-sim",
+            "key": "20R362-RC-sim",
             "released": "2022-09-07",
             "rc": true,
             "sources": [

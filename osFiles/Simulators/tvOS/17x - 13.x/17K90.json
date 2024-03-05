@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "13.2 Simulator",
     "build": "17K90",
-    "uniqueBuild": "17K90-sim",
+    "key": "17K90-sim",
     "released": "2019-11-07",
     "deviceMap": [
         "tvOS Simulator"

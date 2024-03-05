@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "15.0 Simulator",
     "build": "19J344",
-    "uniqueBuild": "19J344-sim",
+    "key": "19J344-sim",
     "released": "2021-09-20",
     "deviceMap": [
         "tvOS Simulator"

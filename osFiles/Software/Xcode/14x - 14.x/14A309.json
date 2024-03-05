@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "14.0 RC",
-            "uniqueBuild": "14A309-RC",
+            "key": "14A309-RC",
             "released": "2022-09-07",
             "rc": true,
             "sdks": [

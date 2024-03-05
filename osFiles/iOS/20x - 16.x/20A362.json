@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "16.0 RC",
-            "uniqueBuild": "20A362-RC",
+            "key": "20A362-RC",
             "released": "2022-09-07",
             "rc": true,
             "deviceMap": [

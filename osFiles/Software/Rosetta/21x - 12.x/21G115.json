@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "12.6 RC",
-            "uniqueBuild": "21G115-RC",
+            "key": "21G115-RC",
             "released": "2022-09-07",
             "rc": true
         }

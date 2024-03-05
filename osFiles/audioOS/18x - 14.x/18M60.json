@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "14.7 RC",
-            "uniqueBuild": "18M60-RC",
+            "key": "18M60-RC",
             "released": "2021-07-13",
             "rc": true
         }

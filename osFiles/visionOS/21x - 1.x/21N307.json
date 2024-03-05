@@ -9,7 +9,7 @@
     "createDuplicateEntries": [
         {
             "version": "1.0 beta 7",
-            "uniqueBuild": "21N307-beta",
+            "key": "21N307-beta",
             "released": "2023-12-12",
             "beta": true,
             "hideFromLatestVersions": false,

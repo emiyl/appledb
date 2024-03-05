@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "17.0 beta 3 Simulator",
     "build": "21A5277g",
-    "uniqueBuild": "21A5277g-sim",
+    "key": "21A5277g-sim",
     "released": "2023-07-05",
     "beta": true,
     "deviceMap": [

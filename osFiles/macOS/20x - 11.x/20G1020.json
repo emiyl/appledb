@@ -9,7 +9,7 @@
     "createDuplicateEntries": [
         {
             "version": "11.7.2 RC 3",
-            "uniqueBuild": "20G1020-RC",
+            "key": "20G1020-RC",
             "released": "2022-12-07",
             "rc": true
         }

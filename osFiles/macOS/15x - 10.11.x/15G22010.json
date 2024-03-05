@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "10.11.6 (Security Update 2018-004 beta 4)",
-            "uniqueBuild": "15G22010-beta",
+            "key": "15G22010-beta",
             "released": "2018-07-02",
             "beta": true
         }

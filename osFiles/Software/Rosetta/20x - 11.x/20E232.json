@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "11.3 RC",
-            "uniqueBuild": "20E232-RC",
+            "key": "20E232-RC",
             "released": "2021-04-20",
             "rc": true
         }

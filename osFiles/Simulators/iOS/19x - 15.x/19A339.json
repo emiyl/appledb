@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "15.0 Simulator",
     "build": "19A339",
-    "uniqueBuild": "19A339-sim",
+    "key": "19A339-sim",
     "released": "2021-09-20",
     "deviceMap": [
         "iOS Simulator"

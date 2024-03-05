@@ -2,7 +2,7 @@
     "osStr": "watchOS",
     "version": "8.0 Simulator",
     "build": "19R345",
-    "uniqueBuild": "19R345-sim",
+    "key": "19R345-sim",
     "released": "2021-09-20",
     "deviceMap": [
         "watchOS Simulator"

@@ -2,7 +2,7 @@
     "osStr": "Safari",
     "version": "15.5 beta 3",
     "build": "613F15",
-    "uniqueBuild": "613F15-beta3",
+    "key": "613F15-beta3",
     "released": "2022-04-27",
     "beta": true,
     "deviceMap": [

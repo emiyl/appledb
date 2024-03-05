@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "4.2.1 GM",
-            "uniqueBuild": "8C148-GM",
+            "key": "8C148-GM",
             "released": "2010-11-18",
             "rc": true
         }

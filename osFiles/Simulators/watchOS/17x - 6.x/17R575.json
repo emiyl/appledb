@@ -2,7 +2,7 @@
     "osStr": "watchOS",
     "version": "6.0 Simulator",
     "build": "17R575",
-    "uniqueBuild": "17R575-sim",
+    "key": "17R575-sim",
     "released": "2019-09-19",
     "deviceMap": [
         "watchOS Simulator"

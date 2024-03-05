@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "6.1 GM",
-            "uniqueBuild": "10B141-GM",
+            "key": "10B141-GM",
             "released": "2013-01-26",
             "rc": true
         }

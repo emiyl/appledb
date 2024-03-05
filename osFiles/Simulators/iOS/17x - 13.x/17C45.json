@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "13.3 Simulator",
     "build": "17C45",
-    "uniqueBuild": "17C45-sim",
+    "key": "17C45-sim",
     "released": "2019-12-10",
     "deviceMap": [
         "iOS Simulator"

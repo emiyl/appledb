@@ -65,7 +65,7 @@ function handleSDKs(baseItem) {
 
   for (var sdk of baseItem["sdks"]) {
     sdk["version"] = sdk["version"] + " SDK";
-    sdk["uniqueBuild"] = sdk["build"] + "-SDK";
+    sdk["key"] = sdk["build"] + "-SDK";
     sdk["released"] = baseItem["released"];
     sdk["deviceMap"] = [
       (sdk["osStr"].indexOf("OS X") >= 0 ? "macOS" : sdk["osStr"]) + " SDK",
@@ -181,8 +181,7 @@ for (let i of osFiles) {
 }
 let filterOTAsArray = ["audioOS", "tvOS", "watchOS", "iOS", "HomePod Software"];
 osFiles = osFiles.concat(createDuplicateEntriesArray).map(function (ver) {
-  if (!ver.uniqueBuild) ver.uniqueBuild = ver.build || ver.version;
-  if (!ver.key) ver.key = ver.osStr + ";" + ver.uniqueBuild;
+  if (!ver.key) ver.key = ver.osStr + ";" + (ver.build || ver.version);
   if (!ver.beta) ver.beta = false;
   if (!ver.rc) ver.rc = false;
   /*if (!ver.sortVersion) {
@@ -224,7 +223,7 @@ osFiles = osFiles.concat(createDuplicateEntriesArray).map(function (ver) {
   ver.devices = getLegacyDevicesObjectArray();
 
   ver.appledburl = encodeURI(
-    `https://appledb.dev/firmware/${ver.osStr.replace(/ /g, "-")}/${ver.uniqueBuild}`,
+    `https://appledb.dev/firmware/${ver.osStr.replace(/ /g, "-")}/${ver.key}`,
   );
 
   return ver;
@@ -342,14 +341,14 @@ osFiles.map(function (fw) {
               x.compatibility.filter(function (y) {
                 return (
                   y.devices.includes(dev) &&
-                  y.firmwares.includes(fw.uniqueBuild)
+                  y.firmwares.includes(fw.key)
                 );
               }).length > 0
             );
         })
         .sort((a, b) => a.priority - b.priority);
       write(
-        path.join(dirName, dev, fw.uniqueBuild + ".json"),
+        path.join(dirName, dev, fw.key + ".json"),
         JSON.stringify(jb),
       );
     });

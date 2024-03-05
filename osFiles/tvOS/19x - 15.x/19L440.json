@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "15.4 RC",
-            "uniqueBuild": "19L440-RC",
+            "key": "19L440-RC",
             "released": "2022-03-08",
             "rc": true
         }

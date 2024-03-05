@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "4.0 GM 2",
-            "uniqueBuild": "4A304a-GM",
+            "key": "4A304a-GM",
             "released": "2011-03-03",
             "rc": true
         }

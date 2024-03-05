@@ -2,12 +2,12 @@
     "osStr": "iOS",
     "version": "17.2 Simulator",
     "build": "21C62",
-    "uniqueBuild": "21C62-sim",
+    "key": "21C62-sim",
     "released": "2023-12-12",
     "createDuplicateEntries": [
         {
             "version": "17.2 Release Candidate Simulator",
-            "uniqueBuild": "21C62-RC-sim",
+            "key": "21C62-RC-sim",
             "released": "2023-12-05",
             "rc": true,
             "sources": [

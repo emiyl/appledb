@@ -2,7 +2,7 @@
     "osStr": "watchOS",
     "version": "10.0 beta Simulator",
     "build": "21R5275s",
-    "uniqueBuild": "21R5275s-sim",
+    "key": "21R5275s-sim",
     "released": "2023-06-05",
     "beta": true,
     "deviceMap": [

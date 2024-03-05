@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "2.2.1 GM",
-            "uniqueBuild": "13V420-GM",
+            "key": "13V420-GM",
             "released": "2016-04-20",
             "rc": true
         }

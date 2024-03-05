@@ -7,7 +7,7 @@
         {
             "osStr": "Xcode",
             "version": "15.1 RC",
-            "uniqueBuild": "15C65-RC",
+            "key": "15C65-RC",
             "released": "2023-12-05",
             "rc": true,
             "sources": [

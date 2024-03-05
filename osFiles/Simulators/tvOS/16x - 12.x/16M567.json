@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "12.4 Simulator",
     "build": "16M567",
-    "uniqueBuild": "16M567-sim",
+    "key": "16M567-sim",
     "released": "2019-07-22",
     "deviceMap": [
         "tvOS Simulator"

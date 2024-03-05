@@ -7,12 +7,12 @@
     "createDuplicateEntries": [
         {
             "version": "8.0 RC",
-            "uniqueBuild": "21P365-RC",
+            "key": "21P365-RC",
             "released": "2023-09-12",
             "rc": true
         },
         {
-            "uniqueBuild": "21P365-13",
+            "key": "21P365-13",
             "released": "2023-09-21"
         }
     ],

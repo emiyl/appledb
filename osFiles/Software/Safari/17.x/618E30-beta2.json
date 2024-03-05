@@ -2,7 +2,7 @@
     "osStr": "Safari",
     "version": "17.4 beta 2",
     "build": "618E30",
-    "uniqueBuild": "618E30-beta2",
+    "key": "618E30-beta2",
     "buildTrain": "SafariSunburstEVentura",
     "released": "2024-02-08",
     "beta": true,

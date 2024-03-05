@@ -9,7 +9,7 @@
     "createDuplicateEntries": [
         {
             "version": "12.7.3 RC 4",
-            "uniqueBuild": "21H1015-RC",
+            "key": "21H1015-RC",
             "released": "2024-01-17",
             "rc": true
         }

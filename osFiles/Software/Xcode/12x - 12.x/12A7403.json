@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "12.1 GM",
-            "uniqueBuild": "12A7403-GM",
+            "key": "12A7403-GM",
             "released": "2020-10-13",
             "rc": true,
             "sdks": [

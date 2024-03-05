@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "13.5 GM",
-            "uniqueBuild": "17F75-GM",
+            "key": "17F75-GM",
             "released": "2020-05-18",
             "rc": true
         }

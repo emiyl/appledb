@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "12.4 Simulator",
     "build": "16G73",
-    "uniqueBuild": "16G73-sim",
+    "key": "16G73-sim",
     "released": "2019-07-22",
     "deviceMap": [
         "iOS Simulator"

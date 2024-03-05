@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "4.1 GM",
-            "uniqueBuild": "15R846-GM",
+            "key": "15R846-GM",
             "released": "2017-10-20",
             "rc": true
         }

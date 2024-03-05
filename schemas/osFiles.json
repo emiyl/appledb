@@ -15,7 +15,6 @@
             ]
         },
         "build":         {"type": "string"},
-        "uniqueBuild":   {"type": "string"},
         "key":           {"type": "string"},
         
         "bridgeOSBuild":    {"type": "string"},

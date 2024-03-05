@@ -2,12 +2,12 @@
     "osStr": "watchOS",
     "version": "9.4 Simulator",
     "build": "20T253",
-    "uniqueBuild": "20T253-sim",
+    "key": "20T253-sim",
     "released": "2023-03-30",
     "createDuplicateEntries": [
         {
             "version": "9.4 RC Simulator",
-            "uniqueBuild": "20T253-RC-sim",
+            "key": "20T253-RC-sim",
             "released": "2023-03-23",
             "rc": true,
             "sources": [

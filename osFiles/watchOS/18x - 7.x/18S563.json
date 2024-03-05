@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "7.2 RC",
-            "uniqueBuild": "18S563-RC",
+            "key": "18S563-RC",
             "released": "2020-12-08",
             "rc": true,
             "deviceMap": [

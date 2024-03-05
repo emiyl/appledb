@@ -2,7 +2,7 @@
     "osStr": "watchOS",
     "version": "6.2.1 Simulator",
     "build": "17T531",
-    "uniqueBuild": "17T531-sim",
+    "key": "17T531-sim",
     "released": "2020-03-24",
     "deviceMap": [
         "watchOS Simulator"

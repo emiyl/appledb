@@ -199,7 +199,7 @@ for asset_type, assets in asset_types.items():
                 
                 if not extended_item_processed:
                     extended_items.append({
-                        'uniqueBuild': f"{file_data['build']}-{model}",
+                        'key': f"{file_data['build']}-{model}",
                         'released': release_date,
                         'deviceMap': device_map[model],
                         'sources': [source]

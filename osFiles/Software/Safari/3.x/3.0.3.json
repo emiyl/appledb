@@ -5,7 +5,7 @@
     "beta": true,
     "createDuplicateEntries": [
         {
-            "uniqueBuild": "3.0.3-2",
+            "key": "3.0.3-2",
             "released": "2007-08-01",
             "deviceMap": [
                 "Safari (Windows)"

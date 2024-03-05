@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "14.0 GM",
-            "uniqueBuild": "18J386-GM",
+            "key": "18J386-GM",
             "released": "2020-09-15",
             "rc": true
         }

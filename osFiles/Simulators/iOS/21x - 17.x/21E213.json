@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "17.4 Release Candidate Simulator",
     "build": "21E213",
-    "uniqueBuild": "21E213-sim",
+    "key": "21E213-sim",
     "released": "2024-02-27",
     "rc": true,
     "deviceMap": [

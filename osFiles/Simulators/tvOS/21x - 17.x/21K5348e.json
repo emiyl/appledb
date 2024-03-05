@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "17.2 beta 3 Simulator",
     "build": "21K5348e",
-    "uniqueBuild": "21K5348e-sim",
+    "key": "21K5348e-sim",
     "released": "2023-11-14",
     "beta": true,
     "deviceMap": [

@@ -10,7 +10,7 @@
     "createDuplicateEntries": [
         {
             "version": "8.0 GM",
-            "uniqueBuild": "12A365-GM",
+            "key": "12A365-GM",
             "released": "2014-09-09",
             "rc": true
         }

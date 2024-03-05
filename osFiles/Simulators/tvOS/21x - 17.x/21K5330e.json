@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "17.2 beta Simulator",
     "build": "21K5330e",
-    "uniqueBuild": "21K5330e-sim",
+    "key": "21K5330e-sim",
     "released": "2023-10-26",
     "beta": true,
     "deviceMap": [

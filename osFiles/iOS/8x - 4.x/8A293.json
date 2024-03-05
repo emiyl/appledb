@@ -10,7 +10,7 @@
     "createDuplicateEntries": [
         {
             "version": "4.0 GM",
-            "uniqueBuild": "8A293-GM",
+            "key": "8A293-GM",
             "released": "2010-06-07",
             "rc": true
         }

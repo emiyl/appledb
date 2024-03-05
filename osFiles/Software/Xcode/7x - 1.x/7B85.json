@@ -2,7 +2,7 @@
     "osStr": "Xcode Tools",
     "version": "1.0",
     "build": "7B85",
-    "uniqueBuild": "7B85-1",
+    "key": "7B85-1",
     "released": "2003-09-28",
     "deviceMap": [
         "Xcode"

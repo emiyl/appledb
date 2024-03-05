@@ -13,7 +13,7 @@
     "createDuplicateEntries": [
         {
             "version": "14.0 GM",
-            "uniqueBuild": "18A373-GM",
+            "key": "18A373-GM",
             "released": "2020-09-15",
             "rc": true
         }

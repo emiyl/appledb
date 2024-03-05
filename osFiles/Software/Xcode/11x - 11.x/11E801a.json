@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "11.7 beta",
-            "uniqueBuild": "11E801a-beta",
+            "key": "11E801a-beta",
             "released": "2020-08-26",
             "beta": true,
             "sdks": [

@@ -9,7 +9,7 @@
     "createDuplicateEntries": [
         {
             "version": "12.7.1 RC 3",
-            "uniqueBuild": "21G920-RC",
+            "key": "21G920-RC",
             "released": "2023-10-17",
             "rc": true
         }

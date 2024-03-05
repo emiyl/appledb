@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "13.3 Simulator",
     "build": "17K446",
-    "uniqueBuild": "17K446-sim",
+    "key": "17K446-sim",
     "released": "2019-12-10",
     "deviceMap": [
         "tvOS Simulator"

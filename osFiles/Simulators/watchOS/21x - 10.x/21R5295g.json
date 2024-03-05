@@ -2,7 +2,7 @@
     "osStr": "watchOS",
     "version": "10.0 beta 2 Simulator",
     "build": "21R5295g",
-    "uniqueBuild": "21R5295g-sim",
+    "key": "21R5295g-sim",
     "released": "2023-06-21",
     "beta": true,
     "deviceMap": [

@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "17.0 beta Simulator",
     "build": "21A5248u",
-    "uniqueBuild": "21A5248u-sim",
+    "key": "21A5248u-sim",
     "released": "2023-06-05",
     "beta": true,
     "deviceMap": [

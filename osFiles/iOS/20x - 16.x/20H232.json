@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "16.7.3 RC",
-            "uniqueBuild": "20H232-RC",
+            "key": "20H232-RC",
             "released": "2023-12-05",
             "rc": true
         }

@@ -2,12 +2,12 @@
     "osStr": "tvOS",
     "version": "16.4 Simulator",
     "build": "20L494",
-    "uniqueBuild": "20L494-sim",
+    "key": "20L494-sim",
     "released": "2023-03-30",
     "createDuplicateEntries": [
         {
             "version": "16.4 RC Simulator",
-            "uniqueBuild": "20L494-RC-sim",
+            "key": "20L494-RC-sim",
             "released": "2023-03-23",
             "rc": true,
             "sources": [

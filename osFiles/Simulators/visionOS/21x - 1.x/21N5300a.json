@@ -2,7 +2,7 @@
     "osStr": "visionOS",
     "version": "1 beta 6 Simulator",
     "build": "21N5300a",
-    "uniqueBuild": "21N5300a-sim",
+    "key": "21N5300a-sim",
     "released": "2023-11-14",
     "beta": true,
     "deviceMap": [

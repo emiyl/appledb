@@ -2,12 +2,12 @@
     "osStr": "tvOS",
     "version": "17.0 Simulator",
     "build": "21J353",
-    "uniqueBuild": "21J353-sim",
+    "key": "21J353-sim",
     "released": "2023-09-18",
     "createDuplicateEntries": [
         {
             "version": "17.0 RC Simulator",
-            "uniqueBuild": "21J353-RC-sim",
+            "key": "21J353-RC-sim",
             "released": "2023-09-12",
             "rc": true,
             "sources": [

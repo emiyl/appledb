@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "10.1 beta 5",
-            "uniqueBuild": "14B72c-beta",
+            "key": "14B72c-beta",
             "released": "2016-10-19",
             "beta": true
         }

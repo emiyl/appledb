@@ -9,7 +9,7 @@
     "createDuplicateEntries": [
         {
             "version": "10.6 GM",
-            "uniqueBuild": "10A432-GM",
+            "key": "10A432-GM",
             "released": "2009-08-12",
             "rc": true
         }

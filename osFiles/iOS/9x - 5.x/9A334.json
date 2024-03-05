@@ -10,7 +10,7 @@
     "createDuplicateEntries": [
         {
             "version": "5.0 GM",
-            "uniqueBuild": "9A334-GM",
+            "key": "9A334-GM",
             "released": "2011-10-04",
             "rc": true
         }

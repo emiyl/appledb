@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "17.4 beta 3 Simulator",
     "build": "21L5212d",
-    "uniqueBuild": "21L5212d-sim",
+    "key": "21L5212d-sim",
     "released": "2024-02-13",
     "beta": true,
     "deviceMap": [

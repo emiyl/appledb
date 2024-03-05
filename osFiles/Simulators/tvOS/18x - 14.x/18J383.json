@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "14.0 Simulator",
     "build": "18J383",
-    "uniqueBuild": "18J383-sim",
+    "key": "18J383-sim",
     "released": "2020-09-24",
     "deviceMap": [
         "tvOS Simulator"

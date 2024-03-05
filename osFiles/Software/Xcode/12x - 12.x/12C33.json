@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "12.3 RC",
-            "uniqueBuild": "12C33-RC",
+            "key": "12C33-RC",
             "released": "2020-12-08",
             "rc": true,
             "sdks": [

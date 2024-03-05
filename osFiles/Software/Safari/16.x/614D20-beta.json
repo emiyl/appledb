@@ -2,7 +2,7 @@
     "osStr": "Safari",
     "version": "16.3 beta 2",
     "build": "614D20",
-    "uniqueBuild": "614D20-beta",
+    "key": "614D20-beta",
     "released": "2023-01-13",
     "beta": true,
     "deviceMap": [

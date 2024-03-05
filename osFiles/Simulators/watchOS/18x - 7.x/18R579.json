@@ -2,7 +2,7 @@
     "osStr": "watchOS",
     "version": "7.1 Simulator",
     "build": "18R579",
-    "uniqueBuild": "18R579-sim",
+    "key": "18R579-sim",
     "released": "2020-11-05",
     "deviceMap": [
         "watchOS Simulator"

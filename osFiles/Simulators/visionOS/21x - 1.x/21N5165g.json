@@ -2,7 +2,7 @@
     "osStr": "visionOS",
     "version": "1 beta Simulator",
     "build": "21N5165g",
-    "uniqueBuild": "21N5165g-sim",
+    "key": "21N5165g-sim",
     "released": "2023-06-16",
     "beta": true,
     "deviceMap": [

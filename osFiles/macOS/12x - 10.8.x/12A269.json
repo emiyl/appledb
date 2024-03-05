@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "10.8 GM",
-            "uniqueBuild": "12A269-GM",
+            "key": "12A269-GM",
             "released": "2012-07-09",
             "rc": true
         }

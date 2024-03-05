@@ -5,7 +5,7 @@
     "beta": true,
     "createDuplicateEntries": [
         {
-            "uniqueBuild": "0.9-2",
+            "key": "0.9-2",
             "released": "2005-05-15"
         }
     ],

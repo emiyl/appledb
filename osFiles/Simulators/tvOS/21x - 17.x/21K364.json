@@ -2,12 +2,12 @@
     "osStr": "tvOS",
     "version": "17.2 Simulator",
     "build": "21K364",
-    "uniqueBuild": "21K364-sim",
+    "key": "21K364-sim",
     "released": "2023-12-11",
     "createDuplicateEntries": [
         {
             "version": "17.2 Release Candidate Simulator",
-            "uniqueBuild": "21K364-RC-sim",
+            "key": "21K364-RC-sim",
             "released": "2023-12-05",
             "rc": true,
             "sources": [

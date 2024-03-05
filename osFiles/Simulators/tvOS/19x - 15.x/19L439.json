@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "15.4 Simulator",
     "build": "19L439",
-    "uniqueBuild": "19L439-sim",
+    "key": "19L439-sim",
     "released": "2022-03-14",
     "deviceMap": [
         "tvOS Simulator"

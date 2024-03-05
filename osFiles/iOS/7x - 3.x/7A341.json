@@ -10,7 +10,7 @@
     "createDuplicateEntries": [
         {
             "version": "3.0 GM",
-            "uniqueBuild": "7A341-GM",
+            "key": "7A341-GM",
             "released": "2009-06-17",
             "rc": true
         }

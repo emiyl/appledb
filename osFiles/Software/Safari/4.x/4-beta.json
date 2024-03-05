@@ -5,11 +5,11 @@
     "beta": true,
     "createDuplicateEntries": [
         {
-            "uniqueBuild": "4-beta-2",
+            "key": "4-beta-2",
             "released": "2008-08-22"
         },
         {
-            "uniqueBuild": "4-beta-3",
+            "key": "4-beta-3",
             "released": "2009-02-12",
             "sources": [
                 {
@@ -34,7 +34,7 @@
             ]
         },
         {
-            "uniqueBuild": "4-beta-4",
+            "key": "4-beta-4",
             "released": "2009-05-12",
             "securityNotes": "https://support.apple.com/HT3551"
         }

@@ -9,7 +9,7 @@
     "createDuplicateEntries": [
         {
             "version": "10.14.6 (Security Update 2021-001 beta 3)",
-            "uniqueBuild": "18G8012-beta",
+            "key": "18G8012-beta",
             "released": "2021-01-22",
             "beta": true
         }

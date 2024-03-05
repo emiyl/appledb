@@ -2,12 +2,12 @@
     "osStr": "watchOS",
     "version": "10.2 Simulator",
     "build": "21S364",
-    "uniqueBuild": "21S364-sim",
+    "key": "21S364-sim",
     "released": "2023-12-11",
     "createDuplicateEntries": [
         {
             "version": "10.2 Release Candidate Simulator",
-            "uniqueBuild": "21S364-RC-sim",
+            "key": "21S364-RC-sim",
             "released": "2023-12-05",
             "rc": true,
             "sources": [

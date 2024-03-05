@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "11.7.7 RC 5",
-            "uniqueBuild": "20G1345-RC",
+            "key": "20G1345-RC",
             "released": "2023-05-09",
             "rc": true
         }

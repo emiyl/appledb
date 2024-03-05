@@ -14,13 +14,9 @@ module.exports = function (json) {
       type: String,
       default: (t) => t.get("version"),
     },
-    uniqueBuild: {
-      type: String,
-      default: (t) => t.get("build"),
-    },
     key: {
       type: String,
-      default: (t) => json.osStr + ";" + t.get("uniqueBuild"),
+      default: (t) => json.osStr + ";" + t.get("key"),
     },
     embeddedOSBuild: {
       type: String,
@@ -84,7 +80,7 @@ module.exports = function (json) {
       type: String,
       default: (t) =>
         encodeURI(
-          `https://appledb.dev/firmware/${json.osStr.replace(/ /g, "-")}/${t.get("uniqueBuild")}.html`,
+          `https://appledb.dev/firmware/${json.osStr.replace(/ /g, "-")}/${t.get("key")}.html`,
         ),
     },
     deviceMap: {

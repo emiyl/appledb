@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "12.0 GM",
-            "uniqueBuild": "12A7209-GM",
+            "key": "12A7209-GM",
             "released": "2020-09-15",
             "rc": true,
             "sdks": [

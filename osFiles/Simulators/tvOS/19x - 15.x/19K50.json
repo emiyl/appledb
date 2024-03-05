@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "15.2 Simulator",
     "build": "19K50",
-    "uniqueBuild": "19K50-sim",
+    "key": "19K50-sim",
     "released": "2021-12-13",
     "deviceMap": [
         "tvOS Simulator"

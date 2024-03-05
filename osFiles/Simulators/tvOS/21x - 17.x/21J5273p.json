@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "17.0 beta Simulator",
     "build": "21J5273p",
-    "uniqueBuild": "21J5273p-sim",
+    "key": "21J5273p-sim",
     "released": "2023-06-05",
     "beta": true,
     "deviceMap": [

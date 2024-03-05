@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "17.0 beta 7 Simulator",
     "build": "21A5317a",
-    "uniqueBuild": "21A5317a-sim",
+    "key": "21A5317a-sim",
     "released": "2023-08-22",
     "beta": true,
     "deviceMap": [

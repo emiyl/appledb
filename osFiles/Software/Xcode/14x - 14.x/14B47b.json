@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "14.1 RC 2",
-            "uniqueBuild": "14B47b-RC",
+            "key": "14B47b-RC",
             "released": "2022-10-24",
             "rc": true,
             "sdks": [

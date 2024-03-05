@@ -2,12 +2,12 @@
     "osStr": "visionOS",
     "version": "1 Simulator",
     "build": "21N305",
-    "uniqueBuild": "21N305-sim",
+    "key": "21N305-sim",
     "released": "2024-01-08",
     "createDuplicateEntries": [
         {
             "version": "1 beta 7 Simulator",
-            "uniqueBuild": "21N305-beta-sim",
+            "key": "21N305-beta-sim",
             "released": "2023-12-12",
             "beta": true,
             "deviceMap": [

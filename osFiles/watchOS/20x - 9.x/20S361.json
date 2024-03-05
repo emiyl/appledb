@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "9.2 RC",
-            "uniqueBuild": "20S361-RC",
+            "key": "20S361-RC",
             "released": "2022-12-07",
             "rc": true
         }

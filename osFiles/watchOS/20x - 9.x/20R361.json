@@ -16,7 +16,7 @@
     "createDuplicateEntries": [
         {
             "version": "9.0 RC",
-            "uniqueBuild": "20R361-RC",
+            "key": "20R361-RC",
             "released": "2022-09-07",
             "rc": true,
             "deviceMap": [

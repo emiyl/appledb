@@ -2,7 +2,7 @@
     "osStr": "watchOS",
     "version": "10.4 beta Simulator",
     "build": "21T5185f",
-    "uniqueBuild": "21T5185f-sim",
+    "key": "21T5185f-sim",
     "released": "2024-01-25",
     "beta": true,
     "deviceMap": [

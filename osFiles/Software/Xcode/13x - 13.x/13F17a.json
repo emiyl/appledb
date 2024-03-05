@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "13.4 RC",
-            "uniqueBuild": "13F17a-RC",
+            "key": "13F17a-RC",
             "released": "2022-05-12",
             "rc": true,
             "sdks": [

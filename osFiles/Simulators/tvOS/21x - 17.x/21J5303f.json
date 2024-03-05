@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "17.0 beta 3 Simulator",
     "build": "21J5303f",
-    "uniqueBuild": "21J5303f-sim",
+    "key": "21J5303f-sim",
     "released": "2023-07-05",
     "beta": true,
     "deviceMap": [

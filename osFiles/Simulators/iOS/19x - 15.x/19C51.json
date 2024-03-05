@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "15.2 Simulator",
     "build": "19C51",
-    "uniqueBuild": "19C51-sim",
+    "key": "19C51-sim",
     "released": "2021-12-13",
     "deviceMap": [
         "iOS Simulator"

@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "13.0 RC 2",
-            "uniqueBuild": "22A380-RC",
+            "key": "22A380-RC",
             "released": "2022-10-20",
             "rc": true
         }

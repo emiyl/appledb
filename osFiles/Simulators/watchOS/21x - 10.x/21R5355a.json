@@ -2,7 +2,7 @@
     "osStr": "watchOS",
     "version": "10.0 beta 8 Simulator",
     "build": "21R5355a",
-    "uniqueBuild": "21R5355a-sim",
+    "key": "21R5355a-sim",
     "released": "2023-08-29",
     "beta": true,
     "deviceMap": [

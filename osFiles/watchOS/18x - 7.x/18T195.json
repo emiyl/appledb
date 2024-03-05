@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "7.4 RC",
-            "uniqueBuild": "18T195-RC",
+            "key": "18T195-RC",
             "released": "2021-04-20",
             "rc": true
         }

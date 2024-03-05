@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "13.4 Simulator",
     "build": "17L255",
-    "uniqueBuild": "17L255-sim",
+    "key": "17L255-sim",
     "released": "2020-03-24",
     "deviceMap": [
         "tvOS Simulator"

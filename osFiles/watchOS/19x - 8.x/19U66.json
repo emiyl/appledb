@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "8.7 RC",
-            "uniqueBuild": "19U66-RC",
+            "key": "19U66-RC",
             "released": "2022-07-12",
             "rc": true
         }

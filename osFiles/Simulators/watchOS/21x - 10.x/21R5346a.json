@@ -2,7 +2,7 @@
     "osStr": "watchOS",
     "version": "10.0 beta 7 Simulator",
     "build": "21R5346a",
-    "uniqueBuild": "21R5346a-sim",
+    "key": "21R5346a-sim",
     "released": "2023-08-22",
     "beta": true,
     "deviceMap": [

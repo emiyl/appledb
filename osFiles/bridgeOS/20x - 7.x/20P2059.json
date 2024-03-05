@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "7.1 RC",
-            "uniqueBuild": "20P2059-RC",
+            "key": "20P2059-RC",
             "released": "2022-12-07",
             "rc": true
         }

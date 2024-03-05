@@ -2,12 +2,12 @@
     "osStr": "iOS",
     "version": "16.4 Simulator",
     "build": "20E247",
-    "uniqueBuild": "20E247-sim",
+    "key": "20E247-sim",
     "released": "2023-03-30",
     "createDuplicateEntries": [
         {
             "version": "16.4 RC Simulator",
-            "uniqueBuild": "20E247-RC-sim",
+            "key": "20E247-RC-sim",
             "released": "2023-03-23",
             "rc": true,
             "sources": [

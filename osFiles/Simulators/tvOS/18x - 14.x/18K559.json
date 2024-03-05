@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "14.3 Simulator",
     "build": "18K559",
-    "uniqueBuild": "18K559-sim",
+    "key": "18K559-sim",
     "released": "2020-12-14",
     "deviceMap": [
         "tvOS Simulator"

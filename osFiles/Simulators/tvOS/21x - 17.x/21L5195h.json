@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "17.4 beta Simulator",
     "build": "21L5195h",
-    "uniqueBuild": "21L5195h-sim",
+    "key": "21L5195h-sim",
     "released": "2024-01-25",
     "beta": true,
     "deviceMap": [

@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "13.0 Simulator",
     "build": "17J585",
-    "uniqueBuild": "17J585-sim",
+    "key": "17J585-sim",
     "released": "2019-09-24",
     "deviceMap": [
         "tvOS Simulator"

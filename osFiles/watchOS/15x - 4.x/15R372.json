@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "4.0 GM",
-            "uniqueBuild": "15R372-GM",
+            "key": "15R372-GM",
             "released": "2017-09-12",
             "rc": true
         }

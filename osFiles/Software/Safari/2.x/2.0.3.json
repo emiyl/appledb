@@ -4,11 +4,11 @@
     "released": "2006-01-10",
     "createDuplicateEntries": [
         {
-            "uniqueBuild": "2.0.3-2",
+            "key": "2.0.3-2",
             "released": "2006-03-13"
         },
         {
-            "uniqueBuild": "2.0.3-3",
+            "key": "2.0.3-3",
             "released": "2006-05-11"
         }
     ],

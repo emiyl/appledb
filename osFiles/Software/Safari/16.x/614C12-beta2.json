@@ -2,7 +2,7 @@
     "osStr": "Safari",
     "version": "16.2 beta 2",
     "build": "614C12",
-    "uniqueBuild": "614C12-beta2",
+    "key": "614C12-beta2",
     "released": "2022-11-10",
     "beta": true,
     "deviceMap": [

@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "13.4 Simulator",
     "build": "17E255",
-    "uniqueBuild": "17E255-sim",
+    "key": "17E255-sim",
     "released": "2020-03-24",
     "deviceMap": [
         "iOS Simulator"

@@ -9,7 +9,7 @@
     "createDuplicateEntries": [
         {
             "version": "12.6.2 RC 4",
-            "uniqueBuild": "21G320-RC",
+            "key": "21G320-RC",
             "released": "2022-12-07",
             "rc": true
         }

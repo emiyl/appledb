@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "14.1 Simulator",
     "build": "18A8394",
-    "uniqueBuild": "18A8394-sim",
+    "key": "18A8394-sim",
     "released": "2020-10-20",
     "deviceMap": [
         "iOS Simulator"

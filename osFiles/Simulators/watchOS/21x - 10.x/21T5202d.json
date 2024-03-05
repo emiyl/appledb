@@ -2,7 +2,7 @@
     "osStr": "watchOS",
     "version": "10.4 beta 3 Simulator",
     "build": "21T5202d",
-    "uniqueBuild": "21T5202d-sim",
+    "key": "21T5202d-sim",
     "released": "2024-02-13",
     "beta": true,
     "deviceMap": [

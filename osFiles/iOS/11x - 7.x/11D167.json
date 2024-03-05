@@ -7,7 +7,7 @@
     "createDuplicateEntries": [
         {
             "version": "7.1 GM",
-            "uniqueBuild": "11D167-GM",
+            "key": "11D167-GM",
             "released": "2014-03-10",
             "rc": true
         }

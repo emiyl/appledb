@@ -2,12 +2,12 @@
     "osStr": "iOS",
     "version": "16.1 Simulator",
     "build": "20B72",
-    "uniqueBuild": "20B72-sim",
+    "key": "20B72-sim",
     "released": "2022-10-24",
     "createDuplicateEntries": [
         {
             "version": "16.1 RC Simulator",
-            "uniqueBuild": "20B72-RC-sim",
+            "key": "20B72-RC-sim",
             "released": "2022-10-18",
             "rc": true,
             "sources": [

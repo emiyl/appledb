@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "15.0 RC",
-            "uniqueBuild": "15A240d-RC",
+            "key": "15A240d-RC",
             "released": "2023-09-12",
             "rc": true,
             "sources": [

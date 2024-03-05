@@ -9,12 +9,12 @@
     "createDuplicateEntries": [
         {
             "version": "12.0.1 RC 2",
-            "uniqueBuild": "21A559-RC",
+            "key": "21A559-RC",
             "released": "2021-10-21",
             "rc": true
         },
         {
-            "uniqueBuild": "21A559-bridge",
+            "key": "21A559-bridge",
             "bridgeOSBuild": "19P549",
             "released": "2021-11-09"
         }

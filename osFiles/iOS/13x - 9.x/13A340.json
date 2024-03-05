@@ -8,7 +8,7 @@
     "createDuplicateEntries": [
         {
             "version": "9.0 GM",
-            "uniqueBuild": "13A340-GM",
+            "key": "13A340-GM",
             "released": "2015-09-09",
             "rc": true,
             "preinstalled": false,

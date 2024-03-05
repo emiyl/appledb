@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "14.4 Simulator",
     "build": "18K802",
-    "uniqueBuild": "18K802-sim",
+    "key": "18K802-sim",
     "released": "2021-01-26",
     "deviceMap": [
         "tvOS Simulator"

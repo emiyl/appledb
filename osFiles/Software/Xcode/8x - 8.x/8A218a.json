@@ -6,7 +6,7 @@
     "createDuplicateEntries": [
         {
             "version": "8.0 GM",
-            "uniqueBuild": "8A218a-GM",
+            "key": "8A218a-GM",
             "released": "2016-09-07",
             "rc": true,
             "sdks": [

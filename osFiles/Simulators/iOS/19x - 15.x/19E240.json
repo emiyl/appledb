@@ -2,7 +2,7 @@
     "osStr": "iOS",
     "version": "15.4 Simulator",
     "build": "19E240",
-    "uniqueBuild": "19E240-sim",
+    "key": "19E240-sim",
     "released": "2022-03-14",
     "deviceMap": [
         "iOS Simulator"

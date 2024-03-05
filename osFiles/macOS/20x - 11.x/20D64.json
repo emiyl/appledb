@@ -9,7 +9,7 @@
     "createDuplicateEntries": [
         {
             "version": "11.2 RC 3",
-            "uniqueBuild": "20D64-RC",
+            "key": "20D64-RC",
             "released": "2021-01-28",
             "rc": true
         }

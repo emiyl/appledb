@@ -2,12 +2,12 @@
     "osStr": "iOS",
     "version": "17.0 Simulator",
     "build": "21A328",
-    "uniqueBuild": "21A328-sim",
+    "key": "21A328-sim",
     "released": "2023-09-18",
     "createDuplicateEntries": [
         {
             "version": "17.0 RC Simulator",
-            "uniqueBuild": "21A328-RC-sim",
+            "key": "21A328-RC-sim",
             "released": "2023-09-12",
             "rc": true,
             "sources": [

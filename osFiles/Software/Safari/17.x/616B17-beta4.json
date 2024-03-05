@@ -2,7 +2,7 @@
     "osStr": "Safari",
     "version": "17.1 beta 4",
     "build": "616B17",
-    "uniqueBuild": "616B17-beta4",
+    "key": "616B17-beta4",
     "released": "2023-10-18",
     "beta": true,
     "releaseNotes": "https://developer.apple.com/services-account/download?path=/Safari/Safari_17.1_for_macOS_Ventura_and_Safari_17.1_for_macOS_Monterey_beta_4/Safari_17.1_Beta_4_Notes.pdf",

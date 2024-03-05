@@ -2,12 +2,12 @@
     "osStr": "iOS",
     "version": "16.0 Simulator",
     "build": "20A360",
-    "uniqueBuild": "20A360-sim",
+    "key": "20A360-sim",
     "released": "2022-09-12",
     "createDuplicateEntries": [
         {
             "version": "16.0 RC Simulator",
-            "uniqueBuild": "20A360-RC-sim",
+            "key": "20A360-RC-sim",
             "released": "2022-09-07",
             "rc": true,
             "sources": [

@@ -2,7 +2,7 @@
     "osStr": "watchOS",
     "version": "10.2 beta Simulator",
     "build": "21S5331e",
-    "uniqueBuild": "21S5331e-sim",
+    "key": "21S5331e-sim",
     "released": "2023-10-26",
     "beta": true,
     "deviceMap": [

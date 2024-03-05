@@ -9,7 +9,7 @@
     "createDuplicateEntries": [
         {
             "version": "13.6.4 RC 4",
-            "uniqueBuild": "22G513-RC",
+            "key": "22G513-RC",
             "released": "2024-01-17",
             "rc": true
         }

@@ -2,7 +2,7 @@
     "osStr": "tvOS",
     "version": "14.5 Simulator",
     "build": "18L191",
-    "uniqueBuild": "18L191-sim",
+    "key": "18L191-sim",
     "released": "2021-04-26",
     "deviceMap": [
         "tvOS Simulator"
