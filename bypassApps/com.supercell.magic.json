@@ -5,7 +5,7 @@
   "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/11/23/b4/1123b41a-bc8f-927b-c2ec-33eba41b8e21/source/512x512bb.jpg",
   "bypasses": [
     {
-      "name": "Choicy"
+      "notes": "Supercell has recently updated their jailbreak detection, there are currently no known bypasses."
     }
   ]
 }
