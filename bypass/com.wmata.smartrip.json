@@ -1,0 +1,1 @@
+{"name":"SmarTrip","bundleId":"com.wmata.smartrip","uri":"https://apps.apple.com/us/app/smartrip/id1516539463","icon":"https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/56/17/98/561798a3-8711-092e-1349-cd0a9d1346ff/source/512x512bb.jpg","bypasses":[{"repository":{"uri":"https://repos.slim.rocks/repo/?repoUrl=https://ios.jeffsjunk.co.uk"},"name":"SmarTripPatch"}]}
